@@ -1,1 +1,3 @@
 # RecuperacionPracticas
+Este es el proyecto de recuperación de las practicas de Técnicas de programación avanzada
+En este caso yo he decidido hacer un buscador de hoteles, he dividido el proyecto en tres clases, una clase habitación, la más básica, y otras dos, hotel y motel motel hereda todas las caracteristicas de hotel y los hoteles están formados por habitaciones,  se pueden realizar busquedas por nombre de hotel por la ciudad en la que se encuentra el hotel, por las estrellas que tiene  el hotel, por si tiene piscina o no y una busqueda de moteles, las habitaciones tien la caracteristica de precio numero de camas y planta y según esto he hecho un comparador de precios de las habitaciones que devuelve la que tiene mejor calidad-precio.
